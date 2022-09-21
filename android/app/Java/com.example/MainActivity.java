@@ -78,8 +78,7 @@ setContentView(R.layout.activity_main);
 n1 = findViewById(R.id.number1);
 n2 = findViewById(R.id.number2);
 b1 = findViewById(R.id.button1);
-
-findViewById(R.id.text1); t1 =
+t1 = findViewById(R.id.text1);
 
 bl.setOnClickListener(new View.OnClickListener() {
 
@@ -89,8 +88,6 @@ public void onClick(View view) {
 
 (t1.getText().toString().length()==0);
 
-I
-
 int p = Integer.parseInt(n1.getText().toString());
 
 int m = Integer.parseInt(n2.getText().toString());
@@ -98,3 +95,7 @@ int m = Integer.parseInt(n2.getText().toString());
 int sum = p + m;
 
 ti.setText(String.valueOf(sum));
+
+}
+}
+}
