@@ -151,3 +151,33 @@ ti.setText(String.valueOf(sum));
 
 
 
+
+
+<tr onmouseout="uflow_stop()" onmouseover="uflow_star>
+            <td style="padding:20px;width:25%;vertical-align:mi>              <div class="one">
+                <div class="two" id='uflow_image'>
+                  <img src='images/uflow_after.png' width="160">                <img src='images/uflow_before.jpg' width="160">
+              </div>
+              <script type="text/javascript">                                   function uflow_start() {
+                  document.getElementById('uflow_image').style.>                }
+
+                function uflow_stop() {
+                  document.getElementById('uflow_image').style.>
+                }                                                               uflow_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:mi>
+              <a href="https://arxiv.org/abs/2006.04902">
+                <papertitle>What Matters in Unsupervised Optica>
+              </a>                                                            <br>
+              <a href="http://ricojonschkowski.com/">Rico Jonsc>              <a href="https://www.linkedin.com/in/austin-charl>
+              <strong>Jonathan T. Barron</strong>, <br>
+              <a href="https://research.google/people/ArielGord>              <a href="https://www.linkedin.com/in/kurt-konolig>
+              <a href="https://research.google/people/AneliaAng>              <br>                                                            <em>ECCV</em>, 2020 &nbsp <font color="red"><stro>
+              <br>                                                            <a href="https://github.com/google-research/googl>
+              <br>
+              <p></p>
+              <p>
+              Extensive experimentation yields a simple optical>              </p>
+            </td>
+          </tr>
